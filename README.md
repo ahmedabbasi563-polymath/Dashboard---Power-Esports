@@ -1,13 +1,19 @@
-# Dashboard-Power Esports 🎮
+# Power Esports — Power BI Dashboard 🎮
 
 ![Power Esports Dashboard](https://github.com/user-attachments/assets/048768d9-b976-475a-b2fa-80d34a6c0b2b)
 
 ## About:
-Power Esports is a powerful Power BI dashboard I developed while working as a Business Analyst for Maverick Esports. 
-This dashboard pulls it's data from an Execl(.xlsx) file in SharePoint.
+Power Esports is a Power BI dashboard built for Maverick Esports.
+It connects to an Excel file on SharePoint and aggregates social media data from Instagram, TikTok, and YouTube.
 
 ## Purpose:
-The dashboard servers as a means to aggregate opperational data so that different stakeholders can track performance of various social media platform such as Instagram, TikTok and Youtube.
+Provide a clear view of performance so stakeholders can track growth, compare platforms, and evaluate content themes.
 
-## Metrics/KPI:
-Views are reach are the two most important KPI for this esports program. These KPI are analyzed through time-bound metrics such as data from YoY, previous, and current. Users can select Year, month, and specific reporting week to analyze the data. Under Maverick Esports logo on the right hand side of the dasboard, user can see sum from all three platforms. These KPIs and mterics can be analyzed to see the content theme performance over the filtered time period.
+## Key Features:
+- KPIs: Views & Reach
+- Time analysis: Current vs. Previous, YoY
+- Filters for Year, Month, and Reporting Week
+- Cross-platform totals under the Maverick Esports logo
+
+## Data Source:
+- Excel (.xlsx) hosted on SharePoint
