@@ -1,4 +1,4 @@
-# Power Esports — Power BI Dashboard 🎮
+# Power Esports - Power BI Dashboard 🎮
 
 ![Power Esports Dashboard](https://github.com/user-attachments/assets/048768d9-b976-475a-b2fa-80d34a6c0b2b)
 
