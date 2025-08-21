@@ -1,5 +1,7 @@
 # Dashboard-Power Esports 🎮
 
+![Power Esports Dashboard](https://github.com/user-attachments/assets/048768d9-b976-475a-b2fa-80d34a6c0b2b)
+
 ## About:
 Power Esports is a powerful Power BI dashboard I developed while working as a Business Analyst for Maverick Esports. 
 This dashboard pulls it's data from an Execl(.xlsx) file in SharePoint.
